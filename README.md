@@ -51,3 +51,41 @@ oss
 
 
 
+
+
+------------------------
+todolist
+
+思维，实现，见识
+博客，github，知乎，自己的
+
+
+swoole ，nginx，php
+go语言
+nsq源码，搭建，使用
+gym_push  压测，性能。单元测试
+http原理    tcp网络编程
+openresty(lua+nginx)
+swoole+yii
+各种环境
+计算机编码
+算法，数据结构
+
+
+
+端口不够用。keep-alive
+内外网
+redis组件
+权限
+日志文件名
+yii2熟悉 yii配置
+密码明文传输
+php     php性能测试  nginx      xhprof
+apache   nginx原理  反向代理
+操作系统
+进程
+swoole
+
+
+
+
